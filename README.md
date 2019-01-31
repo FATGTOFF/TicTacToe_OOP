@@ -12,5 +12,5 @@ Tic-Tac-Toe game in a console application with a Object Oriented Programming Sty
 - This class will have the following **private** members:
   - player. An unsigned short integer to hold the player number to determine the player turn.
   - counter. An unsigned short integer to hold the counter to defined the 3 x 3 array.
-  ### Methods
+ ### Methods
   
