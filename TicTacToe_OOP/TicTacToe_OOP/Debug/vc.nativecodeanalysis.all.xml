@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\carlo\documents\github\c_plus_plus\tictactoe_oop\tictactoe_oop</FILEPATH>
+      <FILENAME>tictactoe.cpp</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'TicTacToe::table' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>TicTacToe::{ctor}</FUNCTION>
+    <DECORATED>??0TicTacToe@@QAE@XZ</DECORATED>
+    <FUNCLINE>44</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

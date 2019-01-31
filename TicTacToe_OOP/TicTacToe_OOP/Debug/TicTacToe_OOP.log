@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  main.cpp
+  TicTacToe.cpp
+  Compiling...
+  Generating Code...
+  TicTacToe_OOP.vcxproj -> C:\Users\carlo\Documents\GitHub\C_Plus_Plus\TicTacToe_OOP\Debug\TicTacToe_OOP.exe
+c:\users\carlo\documents\github\c_plus_plus\tictactoe_oop\tictactoe_oop\tictactoe.cpp(44): warning C26495: Variable 'TicTacToe::table' is uninitialized. Always initialize a member variable (type.6).
