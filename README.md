@@ -20,7 +20,10 @@ Tic-Tac-Toe game in a console application with a Object Oriented Programming Sty
   - A virtual method to display the tic tac toe grid.
   - A virtual method to determine the winner. It takes two boolean arguments, one is to determine the winner and the other is to determine if there was a tie.
   - A virtual method to notify the winner to the user. It passes by reference the player number that won.
-  - A virtual method to display the initial menu.
+  - A virtual method to display the initial menu. It passes by reference the choice the user makes.
+  
+ ## Game (Derived Class)
+  ### Members
 
 # UML
 ![uml](https://user-images.githubusercontent.com/16472674/52033880-8a27e000-24f4-11e9-88a9-816d773b2d21.png)
