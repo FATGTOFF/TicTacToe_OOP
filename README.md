@@ -24,6 +24,11 @@ Tic-Tac-Toe game in a console application with a Object Oriented Programming Sty
   
  ## Game (Derived Class)
   ### Members
-
+- This class will have the following **private** members:
+  - player. An unsigned short integer to hold the player number to determine the player turn.
+  - choice. An unsigned short integer to hold the choice the user makes.
+  - winner. A boolean variable to determine if the player won (true).
+  - tie. A boolean variable to determine if there is a tie (true).
+  - computer. A boolean variable to determine if the computer will play (true).
 # UML
 ![uml](https://user-images.githubusercontent.com/16472674/52033880-8a27e000-24f4-11e9-88a9-816d773b2d21.png)
