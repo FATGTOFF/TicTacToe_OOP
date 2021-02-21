@@ -1,4 +1,4 @@
-# TicTacToe_OOP [DRAFT As of 31 January 2019]
+# TicTacToe_OOP
 Tic-Tac-Toe game in a console application with a Object Oriented Programming Style
 ## TicTacToe (Base Class)
   ### Members
