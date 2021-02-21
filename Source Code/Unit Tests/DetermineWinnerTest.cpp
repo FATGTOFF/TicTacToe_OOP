@@ -3,7 +3,7 @@
 #include "..\Tic-Tac-Toe-OOP\TicTacToe.cpp"
 
 
-class TicTacToeTest : public ::testing::Test
+class TicTacToeTest : public::testing::Test
 {
 protected:
 	TicTacToe* tictactoe;
@@ -24,8 +24,8 @@ public:
 	different ways the winner can be
 	determined.
 
-			 Column #
-			 1   2   3
+		  Column #
+		 1   2   3
 
 	Row# 1	 1 | 2 | 3
 	Row# 2	 4 | 5 | 6
